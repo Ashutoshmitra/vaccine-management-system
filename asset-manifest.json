@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vaccine-management-system/static/css/main.35b46cc6.css",
+    "main.js": "/vaccine-management-system/static/js/main.a13d8f19.js",
+    "index.html": "/vaccine-management-system/index.html",
+    "main.35b46cc6.css.map": "/vaccine-management-system/static/css/main.35b46cc6.css.map",
+    "main.a13d8f19.js.map": "/vaccine-management-system/static/js/main.a13d8f19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35b46cc6.css",
+    "static/js/main.a13d8f19.js"
+  ]
+}
